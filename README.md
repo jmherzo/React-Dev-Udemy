@@ -6,4 +6,5 @@ From the Udemy Course: [React 16 - The Complete Guide](https://www.udemy.com/rea
 
 Uploaded to this repo:
 
-- Assignment 1
+- Assignment 1 - Base syntax
+- Assignment 2 - Lists conditionals
